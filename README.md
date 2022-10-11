@@ -2,6 +2,12 @@
 
 # Markdown Commands
 
+[https://www.markdownguide.org/](https://www.markdownguide.org/)
+[https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
+[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+[https://www.markdownguide.org/extended-syntax](https://www.markdownguide.org/extended-syntax)
+
+
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
