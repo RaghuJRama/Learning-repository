@@ -58,3 +58,22 @@ Keep lines left-aligned like this.
     This can result in unexpected formatting problems.
 
   Don't add tabs or spaces in front of paragraphs.
+
+# Line Breaks
+
+This is the first line.  
+And this is the second line.
+
+## Line Break Best Practices
+
+First line with two spaces after.  
+And the next line.
+
+First line with the HTML tag after.<br>
+And the next line.
+
+First line with a backslash after.\
+And the next line.
+
+First line with nothing after.
+And the next line.
