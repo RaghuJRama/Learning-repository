@@ -2,9 +2,9 @@
 
 # Markdown Commands
 
-[https://www.markdownguide.org/](https://www.markdownguide.org/)
-[https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
-[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+[https://www.markdownguide.org/](https://www.markdownguide.org/)  
+[https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)  
+[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)  
 [https://www.markdownguide.org/extended-syntax](https://www.markdownguide.org/extended-syntax)
 
 
