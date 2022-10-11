@@ -29,15 +29,24 @@ Heading level 1
 Heading level 2
 -----------------
 
+### Do this
+
 # Here's a Heading
+
+### Don't do this
+
 #Here's a Heading
 
+
+### Do this
 
 Try to put a blank line before...
 
 # Heading
 
 ...and after a heading.
+
+### Don't do this
 
 Without blank lines, this might not look right.
 # Heading
@@ -51,9 +60,13 @@ I think I'll use it to format all of my documents now on.
 
 ## Paragraph Best Practices
 
+### Do this
+
 Don't put tabs or spaces in front of your pragraphs.
 
 Keep lines left-aligned like this.
+
+### Don't do this
 
     This can result in unexpected formatting problems.
 
@@ -66,11 +79,15 @@ And this is the second line.
 
 ## Line Break Best Practices
 
+### Do this
+
 First line with two spaces after.  
 And the next line.
 
 First line with the HTML tag after.<br>
 And the next line.
+
+### Don't do this
 
 First line with a backslash after.\
 And the next line.
