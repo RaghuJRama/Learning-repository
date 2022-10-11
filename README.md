@@ -94,3 +94,27 @@ And the next line.
 
 First line with nothing after.
 And the next line.
+
+# Bold
+
+`I just love **bold text**.
+I just love __bold text__.
+Love**is**bold`
+
+I just love **bold text**.
+I just love __bold text__.
+Love**is**bold
+
+## Bold Best Practices
+
+### Do this
+
+`Love**is**bold`
+
+Love**is**bold
+
+### Don't do this
+
+`Love__is__bold`
+
+Love__is__bold
