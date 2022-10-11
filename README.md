@@ -19,3 +19,20 @@ Heading level 2
 # Heading level 1
 Heading level 1
 =================
+## Heading level 2
+Heading level 2
+-----------------
+
+# Here's a Heading
+#Here's a Heading
+
+
+Try to put a blank line before...
+
+# Heading
+
+...and after a heading.
+
+Without blank lines, this might not look right.
+# Heading
+Don't do this!
