@@ -36,3 +36,19 @@ Try to put a blank line before...
 Without blank lines, this might not look right.
 # Heading
 Don't do this!
+
+# Paragraphs
+
+I really like using Markdown.
+
+I think I'll use it to format all of my documents now on.
+
+## Paragraph Best Practices
+
+Don't put tabs or spaces in front of your pragraphs.
+
+Keep lines left-aligned like this.
+
+    This can result in unexpected formatting problems.
+
+  Don't add tabs or spaces in front of paragraphs.
