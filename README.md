@@ -106,6 +106,9 @@ Keep lines left-aligned like this.
 
 # Line Breaks
 
+    This is the first line.  
+    And this is the second line.
+
 This is the first line.  
 And this is the second line.
 
@@ -113,16 +116,28 @@ And this is the second line.
 
 ### Do this
 
+    First line with two spaces after.  
+    And the next line.
+
 First line with two spaces after.  
 And the next line.
+
+    First line with the HTML tag after.<br>
+    And the next line.
 
 First line with the HTML tag after.<br>
 And the next line.
 
 ### Don't do this
 
+    First line with a backslash after.\
+    And the next line.
+
 First line with a backslash after.\
 And the next line.
+
+    First line with nothing after.
+    And the next line.
 
 First line with nothing after.
 And the next line.
@@ -141,12 +156,12 @@ Love**is**bold
 
 ### Do this
 
-`Love**is**bold`
+    Love**is**bold
 
 Love**is**bold
 
 ### Don't do this
 
-`Love__is__bold`
+    Love__is__bold
 
 Love__is__bold
