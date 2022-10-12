@@ -173,3 +173,33 @@ Love**is**bold
     Love__is__bold
 
 Love__is__bold
+
+
+# Italic
+
+    Italicized text is the *cat's meow*.
+
+    Italicized text is the _cat's meow_.
+
+    A *cat*meow
+
+Italicized text is the *cat's meow*.
+
+Italicized text is the _cat's meow_.
+
+A*cat*meow.
+
+
+## Italic Best Practices
+
+### Do this
+
+    A*cat*meow
+
+A*cat*meow
+
+### Don't do this
+
+    A_cat_meow
+
+A_cat_meow
