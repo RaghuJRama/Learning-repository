@@ -398,3 +398,86 @@ don't do this!
 
 1) First item
 2) Second item
+
+
+# Unordered Lists
+
+    - First item
+    - Second item
+    - Third item
+    - Fourth item
+
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+
+    * First item
+    * Second item
+    * Third item
+    * Fourth item
+
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
+
+    + First item
+    + Second item
+    + Third item
+    + Fourth item
+
++ First item
++ Second item
++ Third item
++ Fourth item
+
+
+    - First item
+    - Second item
+    - Third item
+        - Indented item
+        - Indented item
+    - Fourth item
+
+
+## Starting Unordered List Items with Numbers
+
+    - 1968\. A great year!
+    - I think 1969 was second best.
+
+- 1968\. A great year!
+- I think 1969 was second best.
+
+
+## Unordered List Best Practices
+
+### Do this
+
+    - First item
+    - Second item
+    - Third item
+    - Fourth item
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+
+### Don't do this
+
+    + First item
+    * Second item
+    - Third item
+    + Fourth item
+
+
++ First item
+* Second item
+- Third item
++ Fourth item
