@@ -261,3 +261,58 @@ This is really___very___important text.
 >
 > The witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
+
+## Nested Blockquotes
+
+    > Dorothy followed her through many of the beautiful rooms in her castle.
+    >
+    >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+> 
+>> the Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+
+## Blockquotes with Other Elements
+
+    > ####  The quarterly results look great!
+    >
+    > - Revenue was off the chart.
+    > - Profits were higher than ever.
+    >
+    > *Everything* is going according to **plan**.
+
+> ### the quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+> *Everything* is going according to **plan**.
+
+
+## Blockquotes Best Practices
+
+### Do this
+
+    Try to put a blank line before...
+
+    > This is a blockquote
+
+    ...and after a blockquote.
+
+Try to put a blank line before...
+
+> This is a blockquote
+
+... and after a blockquote.
+
+
+### Don't do this
+
+    Without blank lines, this might not look right.
+    > This is a blockquote
+    Don't do this!
+
+With blank lines, this might not look right.
+> This is a blockquote.
+don't do this!
