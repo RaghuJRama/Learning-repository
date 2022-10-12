@@ -20,7 +20,7 @@
     ###### Heading level 6
 
 
-#### HTML Output
+#### HTML
     <h1>Heading level 1</h1>
     <h2>Heading level 2</h2>
     <h3>Heading level 3</h3>
@@ -51,7 +51,7 @@
     ----------------
 
 
-#### HTML Ouptut
+#### HTML
 
     <h1>Heading level 1</h1>
     <h2>Heading level 2</h2>
@@ -122,7 +122,7 @@ Don't do this!
     I think I'll use it to format all of my documents now on.
 
 
-#### HTML Output
+#### HTML
 
     <p>I really like using Markdown.</p>
     <p>I think I'll use it to format all of my documents from now on.</p>
@@ -160,7 +160,7 @@ Keep lines left-aligned like this.
     And this is the second line.
 
 
-#### HTML Output
+#### HTML
 
     <p>This is the first line.<br>
     And this is the second line.</p>
@@ -210,7 +210,7 @@ And the next line.
     Love**is**bold
 
 
-#### HTML Output
+#### HTML
 
     I just love <strong>bold text</strong>.
     I just love <strong>bold text</strong>.
@@ -249,7 +249,7 @@ Love__is__bold
     A*cat*meow
 
 
-#### HTML Output
+#### HTML
 
     Italicized text is the <em>cat's meow</em>.
     Italicized text is the <em>cat's meow</em>.
@@ -295,7 +295,7 @@ A_cat_meow
     This is really***very***important text.
 
 
-#### HTML Output
+#### HTML
 
     This text is <em><strong>really important</strong></em>.
     This text is <em><strong>really important</strong></em>.
@@ -303,6 +303,8 @@ A_cat_meow
     This text is <em><strong>really important</strong></em>.
     This is really<em><strong>very</strong></em>important text.
 
+
+#### Rendered Output
 
 This text is ***really important***.
 
@@ -407,12 +409,15 @@ don't do this!
 
 # Ordered Lists
 
+#### Markdown code
+
     1. First item
     2. Second item
     3. Third item
     4. Fourth item
 
-#### HTML Output
+
+#### HTML
 
     <ol>
         <li>First item</li>
@@ -421,6 +426,8 @@ don't do this!
         <li>Fourth item</li>
     </ol>
 
+
+#### Rendered Output
 
 1. First item
 2. Second item
@@ -428,6 +435,8 @@ don't do this!
 4. Fourth item
 
 
+#### Markdown code
+
 ```
 1. First item
 1. Second item
@@ -435,7 +444,8 @@ don't do this!
 1. Fourth item
 ```
 
-#### HTML Output
+
+#### HTML
 
     <ol>
         <li>First item</li>
@@ -445,11 +455,15 @@ don't do this!
     </ol>
 
 
+#### Rendered Output
+
 1. First item
 1. Second item
 1. Third item
 1. Fourth item
 
+
+#### Markdown code
 
 ```
 1. First item
@@ -458,7 +472,7 @@ don't do this!
 5. Fourth item
 ```
 
-#### HTML Output
+#### HTML
 
     <ol>
         <li>First item</li>
@@ -468,11 +482,15 @@ don't do this!
     </ol>
 
 
+#### Rendered Output
+
 1. First item
 8. Second item
 3. Third item
 5. Fourth item
 
+
+#### Markdown code
 
 ```
 1. First item
@@ -483,7 +501,7 @@ don't do this!
 4. Fourth item
 ```
 
-#### HTML Output
+#### HTML
 
     <ol>
         <li>First item</li>
@@ -497,6 +515,8 @@ don't do this!
         <li>Fourth item</li>
     </ol>
 
+
+#### Rendered Output
 
 1. First item
 2. Second item
@@ -530,12 +550,15 @@ don't do this!
 
 # Unordered Lists
 
+#### Markdown code
+
     - First item
     - Second item
     - Third item
     - Fourth item
 
-#### HTML Output
+
+#### HTML
 
     <ul>
         <li>First item</li>
@@ -544,6 +567,8 @@ don't do this!
         <li>Fourth item</li>
     </ul>
 
+
+#### Rendered Output
 
 - First item
 - Second item
@@ -551,6 +576,8 @@ don't do this!
 - Fourth item
 
 
+#### Markdown code
+
 ```
 * First item
 * Second item
@@ -558,7 +585,8 @@ don't do this!
 * Fourth item
 ```
 
-#### HTML Output
+
+#### HTML
 
     <ul>
         <li>First item</li>
@@ -568,11 +596,15 @@ don't do this!
     </ul>
 
 
+#### Rendered Output
+
 * First item
 * Second item
 * Third item
 * Fourth item
 
+
+#### Markdown code
 
 ```
 + First item
@@ -581,7 +613,7 @@ don't do this!
 + Fourth item
 ```
 
-#### HTML Output
+#### HTML
 
     <ul>
         <li>First item</li>
@@ -590,11 +622,16 @@ don't do this!
         <li>Fourth item</li>
     </ul>
 
+
+#### Rendered Output
+
 + First item
 + Second item
 + Third item
 + Fourth item
 
+
+#### Markdown code
 
 ```
 - First item
@@ -605,7 +642,7 @@ don't do this!
 - Fourth item
 ```
 
-#### HTML Output
+#### HTML
 
     <ul>
         <li>First item</li>
@@ -620,6 +657,8 @@ don't do this!
     </ul>
 
 
+#### Rendered Output
+
 - First item
 - Second item
 - Third item
@@ -630,8 +669,11 @@ don't do this!
 
 ## Starting Unordered List Items with Numbers
 
+#### Markdown code
+
     - 1968\. A great year!
     - I think 1969 was second best.
+
 
 #### HTML Output
 
@@ -639,6 +681,10 @@ don't do this!
         <li>1968. A great year!</li>
         <li>I think 1969 was second best.</li>
     </ul>
+
+
+#### Rendered Output
+
 
 - 1968\. A great year!
 - I think 1969 was second best.
