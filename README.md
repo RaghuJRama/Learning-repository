@@ -8,6 +8,15 @@
 [https://www.markdownguide.org/extended-syntax](https://www.markdownguide.org/extended-syntax)
 
 
+# Headings
+
+    # Heading level 1
+    ## Heading level 2
+    ### Heading level 3
+    #### Heading level 4
+    ##### Heading level 5
+    ###### Heading level 6
+
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
@@ -15,12 +24,21 @@
 ##### Heading level 5
 ###### Heading level 6
 
+## Alternate Syntax
+
+    Heading level 1
+    =================
+
+    Heading level 2
+    ----------------
 
 Heading level 1
 =================
 
 Heading level 2
 ----------------
+
+## Heading Comparision
 
 # Heading level 1
 Heading level 1
@@ -31,14 +49,24 @@ Heading level 2
 
 ### Do this
 
+    # Here's a Heading
+
 # Here's a Heading
 
 ### Don't do this
+
+    #Here's a Heading
 
 #Here's a Heading
 
 
 ### Do this
+
+    Try to put a blank line before...
+
+    # Heading
+
+    ...and after a heading.
 
 Try to put a blank line before...
 
@@ -47,6 +75,10 @@ Try to put a blank line before...
 ...and after a heading.
 
 ### Don't do this
+
+    Without blank lines, this might not look right.
+    # Heading
+    Don't do this!
 
 Without blank lines, this might not look right.
 # Heading
