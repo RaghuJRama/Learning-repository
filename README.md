@@ -233,9 +233,9 @@ This is really***very***important text.
 
 ### Do this
 
-    This is really ****very***important text.
+    This is really****very***important text.
 
-This is really ***very***important text.
+This is really***very***important text.
 
 ### Don't do this
 
