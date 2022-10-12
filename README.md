@@ -86,6 +86,10 @@ Don't do this!
 
 # Paragraphs
 
+    I really like using Markdown.
+
+    I think I'll use it to format all of my documents now on.
+
 I really like using Markdown.
 
 I think I'll use it to format all of my documents now on.
@@ -93,6 +97,10 @@ I think I'll use it to format all of my documents now on.
 ## Paragraph Best Practices
 
 ### Do this
+
+    Don't put tabs or spaces in front of your pragraphs.
+
+    Keep lines left-aligned like this.
 
 Don't put tabs or spaces in front of your pragraphs.
 
