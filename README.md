@@ -317,3 +317,77 @@ Try to put a blank line before...
 With blank lines, this might not look right.
 > This is a blockquote.
 don't do this!
+
+
+# Ordered Lists
+
+    1. First item
+    2. Second item
+    3. Third item
+    4. Fourth item
+
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+    1. First item
+    1. Second item
+    1. Third item
+    1. Fourth item
+
+
+1. First item
+1. Second item
+1. Third item
+1. Fourth item
+
+
+    1. First item
+    8. Second item
+    3. Third item
+    5. Fourth item
+
+1. First item
+8. Second item
+3. Third item
+5. Fourth item
+
+
+    1. First item
+    2. Second item
+    3. Third item
+        1. Indented item
+        2. Indented item
+    4. Fourth item
+
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+
+## Order List Best Practices
+
+### Do this
+
+    1. First item
+    2. Second item
+
+
+1. First item
+2. Second item
+
+
+### Don't do this
+
+    1) First item
+    2) Second item
+
+
+1) First item
+2) Second item
