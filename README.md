@@ -44,6 +44,13 @@
     Heading level 2
     ----------------
 
+
+#### HTML Ouptut
+
+    <h1>Heading level 1</h1>
+    <h2>Heading level 2</h2>
+
+
 Heading level 1
 =================
 
@@ -104,6 +111,13 @@ Don't do this!
 
     I think I'll use it to format all of my documents now on.
 
+
+#### HTML Output
+
+    <p>I really like using Markdown.</p>
+    <p>I think I'll use it to format all of my documents from now on.</p>
+
+
 I really like using Markdown.
 
 I think I'll use it to format all of my documents now on.
@@ -130,6 +144,13 @@ Keep lines left-aligned like this.
 
     This is the first line.  
     And this is the second line.
+
+
+#### HTML Output
+
+    <p>This is the first line.<br>
+    And this is the second line.</p>
+
 
 This is the first line.  
 And this is the second line.
@@ -170,6 +191,14 @@ And the next line.
     I just love __bold text__.  
     Love**is**bold
 
+
+#### HTML Output
+
+    I just love <strong>bold text</strong>.
+    I just love <strong>bold text</strong>.
+    Love<strong>is</strong>bold
+
+
 I just love **bold text**.  
 I just love __bold text__.  
 Love**is**bold
@@ -196,6 +225,13 @@ Love__is__bold
     Italicized text is the _cat's meow_.
 
     A*cat*meow
+
+
+#### HTML Output
+
+    Italicized text is the <em>cat's meow</em>.
+    Italicized text is the <em>cat's meow</em>.
+    A<em>cat</em>meow
 
 Italicized text is the *cat's meow*.
 
@@ -230,6 +266,15 @@ A_cat_meow
     This text is **_really important_**.
 
     This is really***very***important text.
+
+
+#### HTML Output
+
+    This text is <em><strong>really important</strong></em>.
+    This text is <em><strong>really important</strong></em>.
+    This text is <em><strong>really important</strong></em>.
+    This text is <em><strong>really important</strong></em>.
+    This is really<em><strong>very</strong></em>important text.
 
 
 This text is ***really important***.
@@ -340,11 +385,21 @@ don't do this!
     3. Third item
     4. Fourth item
 
+#### HTML Output
+
+    <ol>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+        <li>Fourth item</li>
+    </ol>
+
 
 1. First item
 2. Second item
 3. Third item
 4. Fourth item
+
 
 ```
 1. First item
@@ -352,6 +407,15 @@ don't do this!
 1. Third item
 1. Fourth item
 ```
+
+#### HTML Output
+
+    <ol>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+        <li>Fourth item</li>
+    </ol>
 
 
 1. First item
@@ -366,6 +430,15 @@ don't do this!
 3. Third item
 5. Fourth item
 ```
+
+#### HTML Output
+
+    <ol>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+        <li>Fourth item</li>
+    </ol>
 
 
 1. First item
@@ -382,6 +455,20 @@ don't do this!
     2. Indented item
 4. Fourth item
 ```
+
+#### HTML Output
+
+    <ol>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item
+            <ol>
+            <li>Indented item</li>
+            <li>Indented item</li>
+            </ol>
+        </li>
+        <li>Fourth item</li>
+    </ol>
 
 
 1. First item
@@ -421,6 +508,15 @@ don't do this!
     - Third item
     - Fourth item
 
+#### HTML Output
+
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+        <li>Fourth item</li>
+    </ul>
+
 
 - First item
 - Second item
@@ -434,6 +530,15 @@ don't do this!
 * Third item
 * Fourth item
 ```
+
+#### HTML Output
+
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+        <li>Fourth item</li>
+    </ul>
 
 
 * First item
@@ -449,6 +554,15 @@ don't do this!
 + Fourth item
 ```
 
+#### HTML Output
+
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+        <li>Fourth item</li>
+    </ul>
+
 + First item
 + Second item
 + Third item
@@ -463,6 +577,20 @@ don't do this!
     - Indented item
 - Fourth item
 ```
+
+#### HTML Output
+
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item
+            <ul>
+            <li>Indented item</li>
+            <li>Indented item</li>
+            </ul>
+        </li>
+        <li>Fourth item</li>
+    </ul>
 
 
 - First item
@@ -477,6 +605,13 @@ don't do this!
 
     - 1968\. A great year!
     - I think 1969 was second best.
+
+#### HTML Output
+
+    <ul>
+        <li>1968. A great year!</li>
+        <li>I think 1969 was second best.</li>
+    </ul>
 
 - 1968\. A great year!
 - I think 1969 was second best.
