@@ -203,3 +203,42 @@ A*cat*meow
     A_cat_meow
 
 A_cat_meow
+
+
+# Bold and Italic
+
+    This text is ***really important***.
+
+    This text is ___really important___.
+
+    This text is __*really important*__.
+
+    This text is **_really important_**.
+
+    This is really***very***important text.
+
+
+This text is ***really important***.
+
+This text is ___really important___.
+
+This text is __*really important*__.
+
+This text is **_really important_**.
+
+This is really***very***important text.
+
+
+## Bold and Italic Best practices
+
+### Do this
+
+    This is really ****very***important text.
+
+This is really ***very***important text.
+
+### Don't do this
+
+    This is really___very___important text.
+
+This is really___very___important text.
