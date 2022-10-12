@@ -10,6 +10,8 @@
 
 # Headings
 
+#### Markdown Code
+
     # Heading level 1
     ## Heading level 2
     ### Heading level 3
@@ -27,6 +29,8 @@
     <h6>Heading level 6</h6>
 
 
+#### Rendered Output
+
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
@@ -37,6 +41,8 @@
 	
 
 ## Alternate Syntax
+
+#### Markdown code
 
     Heading level 1
     =================
@@ -50,6 +56,8 @@
     <h1>Heading level 1</h1>
     <h2>Heading level 2</h2>
 
+
+#### Rendered Output
 
 Heading level 1
 =================
@@ -107,6 +115,8 @@ Don't do this!
 
 # Paragraphs
 
+#### Markdown code
+
     I really like using Markdown.
 
     I think I'll use it to format all of my documents now on.
@@ -117,6 +127,8 @@ Don't do this!
     <p>I really like using Markdown.</p>
     <p>I think I'll use it to format all of my documents from now on.</p>
 
+
+#### Rendered Output
 
 I really like using Markdown.
 
@@ -142,6 +154,8 @@ Keep lines left-aligned like this.
 
 # Line Breaks
 
+#### Markdown code
+
     This is the first line.  
     And this is the second line.
 
@@ -151,6 +165,8 @@ Keep lines left-aligned like this.
     <p>This is the first line.<br>
     And this is the second line.</p>
 
+
+#### Rendered Output
 
 This is the first line.  
 And this is the second line.
@@ -187,6 +203,8 @@ And the next line.
 
 # Bold
 
+#### Rendered Output
+
     I just love **bold text**.  
     I just love __bold text__.  
     Love**is**bold
@@ -198,6 +216,8 @@ And the next line.
     I just love <strong>bold text</strong>.
     Love<strong>is</strong>bold
 
+
+#### Rendered Output
 
 I just love **bold text**.  
 I just love __bold text__.  
@@ -220,6 +240,8 @@ Love__is__bold
 
 # Italic
 
+#### Markdown code
+
     Italicized text is the *cat's meow*.
 
     Italicized text is the _cat's meow_.
@@ -232,6 +254,9 @@ Love__is__bold
     Italicized text is the <em>cat's meow</em>.
     Italicized text is the <em>cat's meow</em>.
     A<em>cat</em>meow
+
+
+#### Rendered Output
 
 Italicized text is the *cat's meow*.
 
@@ -256,6 +281,8 @@ A_cat_meow
 
 
 # Bold and Italic
+
+#### m
 
     This text is ***really important***.
 
