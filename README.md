@@ -9,3 +9,7 @@
 - [https://blogs.sap.com/2022/08/03/sap-tech-bytes-consume-data-using-destinations-with-an-approuter-cloud-foundry-basics-3/](https://blogs.sap.com/2022/08/03/sap-tech-bytes-consume-data-using-destinations-with-an-approuter-cloud-foundry-basics-3/)
 
 - [https://blogs.sap.com/2022/08/25/xsuaa-and-approuter-the-great-story-of-twins/](https://blogs.sap.com/2022/08/25/xsuaa-and-approuter-the-great-story-of-twins/)
+
+- [https://blogs.sap.com/2022/06/03/build-and-run-cloud-applications-on-the-sap-btp/](https://blogs.sap.com/2022/06/03/build-and-run-cloud-applications-on-the-sap-btp/)
+
+- [https://github.com/SAP-samples/sme-partner-reference-application](https://github.com/SAP-samples/sme-partner-reference-application)
