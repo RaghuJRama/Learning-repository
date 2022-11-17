@@ -24,3 +24,5 @@
 - [https://blogs.sap.com/2020/05/26/cap-consume-external-service-part-1/](https://blogs.sap.com/2020/05/26/cap-consume-external-service-part-1/)
 - [https://blogs.sap.com/2020/06/20/consume-external-service-using-application-router/](https://blogs.sap.com/2020/06/20/consume-external-service-using-application-router/)
 - [https://blogs.sap.com/2022/07/05/fundamentas-of-security-in-sap-btp-introduction-part-1/?source=social-Global-YOUTUBE-MarketingCampaign-Developers-unspecified-spr-7257069982-account_name&campaigncode=CRM-XB22-MKT-DGEALL&sprinklrid=7257069982](https://blogs.sap.com/2022/07/05/fundamentas-of-security-in-sap-btp-introduction-part-1/?source=social-Global-YOUTUBE-MarketingCampaign-Developers-unspecified-spr-7257069982-account_name&campaigncode=CRM-XB22-MKT-DGEALL&sprinklrid=7257069982)
+
+- [https://blogs.sap.com/2022/03/17/extend-sap-successfactors-on-sap-btp-with-the-sap-cloud-application-programming-model-cap-blog-posts-series/](https://blogs.sap.com/2022/03/17/extend-sap-successfactors-on-sap-btp-with-the-sap-cloud-application-programming-model-cap-blog-posts-series/)
