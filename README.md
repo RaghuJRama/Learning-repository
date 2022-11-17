@@ -13,3 +13,5 @@
 - [https://blogs.sap.com/2022/06/03/build-and-run-cloud-applications-on-the-sap-btp/](https://blogs.sap.com/2022/06/03/build-and-run-cloud-applications-on-the-sap-btp/)
 
 - [https://github.com/SAP-samples/sme-partner-reference-application](https://github.com/SAP-samples/sme-partner-reference-application)
+
+- [https://www.youtube.com/playlist?list=PLKSPsENL3CxyZk37Jrv1Ve40_n8_gPier](https://www.youtube.com/playlist?list=PLKSPsENL3CxyZk37Jrv1Ve40_n8_gPier)
