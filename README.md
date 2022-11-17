@@ -19,3 +19,8 @@
 - [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)
 
 - [https://blogs.sap.com/2019/03/04/fiori-elements-extension-and-customization-step-by-step/](https://blogs.sap.com/2019/03/04/fiori-elements-extension-and-customization-step-by-step/)
+
+- [https://community.sap.com/search/?ct=blog&q=CAP+Consume+external+service](https://community.sap.com/search/?ct=blog&q=CAP+Consume+external+service)
+- [https://blogs.sap.com/2020/05/26/cap-consume-external-service-part-1/](https://blogs.sap.com/2020/05/26/cap-consume-external-service-part-1/)
+- [https://blogs.sap.com/2020/06/20/consume-external-service-using-application-router/](https://blogs.sap.com/2020/06/20/consume-external-service-using-application-router/)
+- [https://blogs.sap.com/2022/07/05/fundamentas-of-security-in-sap-btp-introduction-part-1/?source=social-Global-YOUTUBE-MarketingCampaign-Developers-unspecified-spr-7257069982-account_name&campaigncode=CRM-XB22-MKT-DGEALL&sprinklrid=7257069982](https://blogs.sap.com/2022/07/05/fundamentas-of-security-in-sap-btp-introduction-part-1/?source=social-Global-YOUTUBE-MarketingCampaign-Developers-unspecified-spr-7257069982-account_name&campaigncode=CRM-XB22-MKT-DGEALL&sprinklrid=7257069982)
