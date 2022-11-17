@@ -15,3 +15,7 @@
 - [https://github.com/SAP-samples/sme-partner-reference-application](https://github.com/SAP-samples/sme-partner-reference-application)
 
 - [https://www.youtube.com/playlist?list=PLKSPsENL3CxyZk37Jrv1Ve40_n8_gPier](https://www.youtube.com/playlist?list=PLKSPsENL3CxyZk37Jrv1Ve40_n8_gPier)
+
+- [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)
+
+- [https://blogs.sap.com/2019/03/04/fiori-elements-extension-and-customization-step-by-step/](https://blogs.sap.com/2019/03/04/fiori-elements-extension-and-customization-step-by-step/)
