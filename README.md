@@ -30,3 +30,5 @@
 - [https://blogs.sap.com/2022/03/17/extend-sap-successfactors-on-sap-btp-with-the-sap-cloud-application-programming-model-cap-blog-posts-series/](https://blogs.sap.com/2022/03/17/extend-sap-successfactors-on-sap-btp-with-the-sap-cloud-application-programming-model-cap-blog-posts-series/)
 
 - [https://blogs.sap.com/2022/01/14/designing-ui5-apps-for-sap-launchpad-service-part-1/](https://blogs.sap.com/2022/01/14/designing-ui5-apps-for-sap-launchpad-service-part-1/)
+
+- [https://blogs.sap.com/2021/06/30/job-scheduler-in-sap-business-technology-platform-overview-of-blog-posts/](https://blogs.sap.com/2021/06/30/job-scheduler-in-sap-business-technology-platform-overview-of-blog-posts/)
