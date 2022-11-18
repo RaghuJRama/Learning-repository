@@ -32,3 +32,5 @@
 - [https://blogs.sap.com/2022/01/14/designing-ui5-apps-for-sap-launchpad-service-part-1/](https://blogs.sap.com/2022/01/14/designing-ui5-apps-for-sap-launchpad-service-part-1/)
 
 - [https://blogs.sap.com/2021/06/30/job-scheduler-in-sap-business-technology-platform-overview-of-blog-posts/](https://blogs.sap.com/2021/06/30/job-scheduler-in-sap-business-technology-platform-overview-of-blog-posts/)
+
+- [https://blogs.sap.com/2019/02/19/sap-cloud-platform-backend-service-overview-of-blogs/](https://blogs.sap.com/2019/02/19/sap-cloud-platform-backend-service-overview-of-blogs/)
