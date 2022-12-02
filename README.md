@@ -34,3 +34,17 @@
 - [https://blogs.sap.com/2021/06/30/job-scheduler-in-sap-business-technology-platform-overview-of-blog-posts/](https://blogs.sap.com/2021/06/30/job-scheduler-in-sap-business-technology-platform-overview-of-blog-posts/)
 
 - [https://blogs.sap.com/2019/02/19/sap-cloud-platform-backend-service-overview-of-blogs/](https://blogs.sap.com/2019/02/19/sap-cloud-platform-backend-service-overview-of-blogs/)
+
+- [https://github.com/sapmentors/cap-community/tree/main/examples/media-handling](https://github.com/sapmentors/cap-community/tree/main/examples/media-handling)
+- [https://github.com/pdominique/cap-media-node](https://github.com/pdominique/cap-media-node)
+- [https://github.com/SAP-samples/hana-opensap-cloud-2020/blob/main/srv/routes/excel.js](https://github.com/SAP-samples/hana-opensap-cloud-2020/blob/main/srv/routes/excel.js)
+
+- [https://answers.sap.com/questions/13631076/error-in-dms-via-sap-cap-file-not-supported.html](https://answers.sap.com/questions/13631076/error-in-dms-via-sap-cap-file-not-supported.html)
+- [https://answers.sap.com/questions/13187262/sap-cap-how-to-create-an-action-for-uploading-file.html](https://answers.sap.com/questions/13187262/sap-cap-how-to-create-an-action-for-uploading-file.html)
+- [https://blogs.sap.com/2021/08/12/sap-cloud-application-programming-model-cap-simple-file-upload-service-using-node.js/](https://blogs.sap.com/2021/08/12/sap-cloud-application-programming-model-cap-simple-file-upload-service-using-node.js/)
+- [https://answers.sap.com/questions/13151239/cap-file-upload-without-db-persistence-fails.html](https://answers.sap.com/questions/13151239/cap-file-upload-without-db-persistence-fails.html)
+- [https://blogs.sap.com/2019/11/05/working-with-files-in-cap-and-amazon-s3/](https://blogs.sap.com/2019/11/05/working-with-files-in-cap-and-amazon-s3/)
+- [https://answers.sap.com/questions/13229233/how-to-postput-a-file-in-cap-java.html](https://answers.sap.com/questions/13229233/how-to-postput-a-file-in-cap-java.html)
+- [https://blogs.sap.com/2020/06/15/sap-cloud-platform-document-management-a-new-offering-on-sap-cloud-platform/](https://blogs.sap.com/2020/06/15/sap-cloud-platform-document-management-a-new-offering-on-sap-cloud-platform/)
+- [https://blogs.sap.com/2020/10/23/integrating-sap-document-management-in-cap-application/](https://blogs.sap.com/2020/10/23/integrating-sap-document-management-in-cap-application/)
+- [https://github.com/mahesh0431/CommunityDMCAPApp/tree/master/app/booksapp](https://github.com/mahesh0431/CommunityDMCAPApp/tree/master/app/booksapp)
