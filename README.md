@@ -72,3 +72,8 @@
 - [https://developers.sap.com/mission.hana-cloud-cap.html](https://developers.sap.com/mission.hana-cloud-cap.html)
 - [https://developers.sap.com/tutorials/hana-cloud-cap-create-database-cds.html](https://developers.sap.com/tutorials/hana-cloud-cap-create-database-cds.html)
 - [https://developers.sap.com/tutorials/hana-cloud-cap-create-project.html](https://developers.sap.com/tutorials/hana-cloud-cap-create-project.html)
+
+- [https://blogs.sap.com/2020/08/03/multi-tenancy-of-destination-service-with-cloud-foundry-applications/](https://blogs.sap.com/2020/08/03/multi-tenancy-of-destination-service-with-cloud-foundry-applications/)
+- [https://blogs.sap.com/2020/08/20/demystifying-xsuaa-in-sap-cloud-foundry/](https://blogs.sap.com/2020/08/20/demystifying-xsuaa-in-sap-cloud-foundry/)
+- [https://blogs.sap.com/2020/07/08/how-to-update-xsuaa-service-instance-to-accept-multiple-redirect-uris/](https://blogs.sap.com/2020/07/08/how-to-update-xsuaa-service-instance-to-accept-multiple-redirect-uris/)
+- [https://blogs.sap.com/2022/01/14/designing-ui5-apps-for-sap-launchpad-service-part-1/](https://blogs.sap.com/2022/01/14/designing-ui5-apps-for-sap-launchpad-service-part-1/)
