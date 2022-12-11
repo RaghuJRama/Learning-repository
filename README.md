@@ -4,6 +4,15 @@
 
 ## Links
 
+**Completed Links**
+- [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/) - [https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/SAP%20CAPM%20Full%20Stack%20UI5%20Application%20with%20CRUD%20Operations](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/SAP%20CAPM%20Full%20Stack%20UI5%20Application%20with%20CRUD%20Operations)
+
+
+
+
+
+
+**Incomplete Links**
 - [https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/](https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/)
 
 - [https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/](https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/)
@@ -18,7 +27,7 @@
 
 - [https://www.youtube.com/playlist?list=PLKSPsENL3CxyZk37Jrv1Ve40_n8_gPier](https://www.youtube.com/playlist?list=PLKSPsENL3CxyZk37Jrv1Ve40_n8_gPier)
 
-- [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)
+
 
 - [https://blogs.sap.com/2019/03/04/fiori-elements-extension-and-customization-step-by-step/](https://blogs.sap.com/2019/03/04/fiori-elements-extension-and-customization-step-by-step/)
 
