@@ -86,3 +86,4 @@
 - [https://blogs.sap.com/2020/08/20/demystifying-xsuaa-in-sap-cloud-foundry/](https://blogs.sap.com/2020/08/20/demystifying-xsuaa-in-sap-cloud-foundry/)
 - [https://blogs.sap.com/2020/07/08/how-to-update-xsuaa-service-instance-to-accept-multiple-redirect-uris/](https://blogs.sap.com/2020/07/08/how-to-update-xsuaa-service-instance-to-accept-multiple-redirect-uris/)
 - [https://blogs.sap.com/2022/01/14/designing-ui5-apps-for-sap-launchpad-service-part-1/](https://blogs.sap.com/2022/01/14/designing-ui5-apps-for-sap-launchpad-service-part-1/)
+- [https://blogs.sap.com/2020/05/13/sap-cloud-platform-backend-service-tutorial-33-app-router-4-run-locally/](https://blogs.sap.com/2020/05/13/sap-cloud-platform-backend-service-tutorial-33-app-router-4-run-locally/)
