@@ -1,4 +1,4 @@
-# Git
+# Git Commands
 
 ### Remove the folders in the remote repository which are updated in .gitignore file later
 
