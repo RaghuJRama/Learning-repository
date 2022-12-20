@@ -4,6 +4,8 @@
 
 ## Links
 
+- CMOS battery - [https://www.youtube.com/watch?v=NL7xQdtbGno](https://www.youtube.com/watch?v=NL7xQdtbGno)
+
 **Completed Links**
 - [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)
 - P - [https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/](https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/)
