@@ -96,3 +96,7 @@
 - [https://blogs.sap.com/2019/09/12/developing-app-with-sap-fiori-elements-list-report-pageobject-page-using-northwind-odata-service-and-how-to-create-an-extension-of-sap-fiori-elements/](https://blogs.sap.com/2019/09/12/developing-app-with-sap-fiori-elements-list-report-pageobject-page-using-northwind-odata-service-and-how-to-create-an-extension-of-sap-fiori-elements/)
 - [https://blogs.sap.com/2021/04/16/extension-of-fiori-elementslist-report-object-page-using-northwind-service-in-visual-studio./](https://blogs.sap.com/2021/04/16/extension-of-fiori-elementslist-report-object-page-using-northwind-service-in-visual-studio./)
 - [https://blogs.sap.com/2018/06/08/sap-fiori-element-list-report-for-beginners/](https://blogs.sap.com/2018/06/08/sap-fiori-element-list-report-for-beginners/)
+
+- [https://developers.sap.com/tutorials/btp-app-analytics-setup-use.html](https://developers.sap.com/tutorials/btp-app-analytics-setup-use.html)
+- [https://developers.sap.com/tutorials/btp-app-prepare-dev-environment-cap.html](https://developers.sap.com/tutorials/btp-app-prepare-dev-environment-cap.html)
+- [https://developers.sap.com/mission.sapui5-cf-first.html](https://developers.sap.com/mission.sapui5-cf-first.html)
