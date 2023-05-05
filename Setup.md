@@ -1,5 +1,11 @@
 # JAVA development Setup for Cloud Foundry
 
+### Install Cloud Foundry CLI
+
+- Download windows installer for Cloud Foundry CLI from [https://github.com/cloudfoundry/cli#downloads](https://github.com/cloudfoundry/cli#downloads).
+- Install Cloud Foundry ClI.
+
+
 ### Install JDK for SapMachine 11
 
 - Browse [https://sap.github.io/SapMachine/](https://sap.github.io/SapMachine/).
