@@ -25,3 +25,12 @@
 - Extract downloaded zip file to a folder.
 - Add the System variable MAVEN_HOME and set it to the root directory of the extracted archive (e.g. C:\\<...>\apache-maven-3.9.1).
 - Edit the System variable PATH and add %MAVEN_HOME%\bin to the PATH variable separated from the previous path by a semicolon.
+
+### Eclipse IDE for Enterprise Java and Web Developers
+
+- Browse [https://www.eclipse.org/downloads/packages/](https://www.eclipse.org/downloads/packages/).
+- Click on *Windows **x86_64*** for **Eclipse IDE for Enterprise Java and Web Developers**.
+- Eclipse zip file will be downloaded.
+- Extract the contents of the zip file to the folder.
+- Launch Eclipse, Select the Workspace folder.
+
