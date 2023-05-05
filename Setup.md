@@ -1,6 +1,6 @@
 # JAVA development Setup for Cloud Foundry
 
-## Install JDK for SapMachine 11
+### Install JDK for SapMachine 11
 
 - Browse [https://sap.github.io/SapMachine/](https://sap.github.io/SapMachine/).
 - In first dropdown, Select **Sap Machine 11 (Long Term Support)**.
