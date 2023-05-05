@@ -7,3 +7,5 @@
 - [https://player.fm/series/bluebeards-tech-talk](https://player.fm/series/bluebeards-tech-talk)
 - [https://people.sap.com/dj.adams.sap](https://people.sap.com/dj.adams.sap)
 - [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
+- [https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds#overview](https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds#overview)
+- [https://github.com/sapmentors/cap-community](https://github.com/sapmentors/cap-community)
