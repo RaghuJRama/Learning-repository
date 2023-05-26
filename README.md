@@ -7,6 +7,12 @@
 - CMOS battery - [https://www.youtube.com/watch?v=NL7xQdtbGno](https://www.youtube.com/watch?v=NL7xQdtbGno)
 
 **Completed Links**
+
+|Reference Link|Development Link|
+|--------------|----------------|
+|[https://www.google.com/](Google)|[https://www.yahoo.com/](Yahoo)|
+
+
 - [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)
 - [https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/](https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/)
 - [https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/](https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/)
