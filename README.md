@@ -10,7 +10,7 @@
 
 |Reference Link|Development Link|
 |--------------|----------------|
-|[https://www.google.com/](Google)|[https://www.yahoo.com/](Yahoo)|
+|[Build a Business Application Using CAP for Node.js](https://developers.sap.com/mission.cp-starter-extensions-cap.html)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Build-a-Business-Application-Using-CAP-for-Node.js)|
 
 
 - [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)
@@ -24,6 +24,8 @@
 |Reference Link|Development Link|
 |--------------|----------------|
 |[CAP with Fiori Elements: Side Effects, Custom Actions, Dynamic Expressions](https://blogs.sap.com/2022/12/23/cap-with-fiori-elements-side-effects-custom-actions-dynamic-expressions/)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/CAP%20with%20Fiori%20Elements%20-%20Side%20Effects%2C%20Custom%20Actions%2C%20Dynamic%20Expressions)|
+|[Build an Application End-to-End Using CAP, Node.js and VS Code](https://developers.sap.com/mission.btp-application-cap-e2e.html)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Build%20an%20Application%20End-to-End%20Using%20CAP%2C%20Node.js%20and%20VS%20Code)|
+|[Secure a Node.JS Application and Make It Available to Other Subaccounts](https://developers.sap.com/group.cp-cf-security-xsuaa.html)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Secure%20a%20Node.JS%20Application%20and%20Make%20It%20Available%20to%20Other%20Subaccounts)|
 
 
 **Not Started Links**
