@@ -12,9 +12,9 @@
 |--------------|--------------|----------------|
 |[Developers.sap.com](https://developers.sap.com)|[Build a Business Application Using CAP for Node.js](https://developers.sap.com/mission.cp-starter-extensions-cap.html)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Build-a-Business-Application-Using-CAP-for-Node.js)|
 |[Blogs.sap.com](https://blogs.sap.com/)|[SAP CAPM Full Stack UI5 Application with CRUD Operations](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/SAP%20CAPM%20Full%20Stack%20UI5%20Application%20with%20CRUD%20Operations)|
+|[Blogs.sap.com](https://blogs.sap.com/)|[UI5: solving CORS issue – during local development – with app router](https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/UI5%20solving%20CORS%20issue%20-%20during%20local%20development%20-%20with%20app%20router)|
 
 
-- [https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/](https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/)
 - [https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/](https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/)
 - [https://blogs.sap.com/2022/06/17/sap-tech-bytes-serve-web-page-with-an-approuter-cloud-foundry-basics-2/](https://blogs.sap.com/2022/06/17/sap-tech-bytes-serve-web-page-with-an-approuter-cloud-foundry-basics-2/)
 - [https://blogs.sap.com/2022/08/03/sap-tech-bytes-consume-data-using-destinations-with-an-approuter-cloud-foundry-basics-3/](https://blogs.sap.com/2022/08/03/sap-tech-bytes-consume-data-using-destinations-with-an-approuter-cloud-foundry-basics-3/) 
