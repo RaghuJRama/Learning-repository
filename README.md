@@ -14,7 +14,6 @@
 |[Blogs.sap.com](https://blogs.sap.com/)|[SAP CAPM Full Stack UI5 Application with CRUD Operations](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/SAP%20CAPM%20Full%20Stack%20UI5%20Application%20with%20CRUD%20Operations)|
 
 
-- [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)
 - [https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/](https://blogs.sap.com/2020/05/22/ui5-solving-cors-issue-during-local-development-with-app-router/)
 - [https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/](https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/)
 - [https://blogs.sap.com/2022/06/17/sap-tech-bytes-serve-web-page-with-an-approuter-cloud-foundry-basics-2/](https://blogs.sap.com/2022/06/17/sap-tech-bytes-serve-web-page-with-an-approuter-cloud-foundry-basics-2/)
@@ -22,11 +21,11 @@
 
 **In-progress Links**
 
-|Reference Link|Development Link|
-|--------------|----------------|
-|[CAP with Fiori Elements: Side Effects, Custom Actions, Dynamic Expressions](https://blogs.sap.com/2022/12/23/cap-with-fiori-elements-side-effects-custom-actions-dynamic-expressions/)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/CAP%20with%20Fiori%20Elements%20-%20Side%20Effects%2C%20Custom%20Actions%2C%20Dynamic%20Expressions)|
-|[Build an Application End-to-End Using CAP, Node.js and VS Code](https://developers.sap.com/mission.btp-application-cap-e2e.html)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Build%20an%20Application%20End-to-End%20Using%20CAP%2C%20Node.js%20and%20VS%20Code)|
-|[Secure a Node.JS Application and Make It Available to Other Subaccounts](https://developers.sap.com/group.cp-cf-security-xsuaa.html)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Secure%20a%20Node.JS%20Application%20and%20Make%20It%20Available%20to%20Other%20Subaccounts)|
+|Reference Site|Reference Link|Development Link|
+|--------------|--------------|----------------|
+|[Blogs.sap.com](https://blogs.sap.com)|[CAP with Fiori Elements: Side Effects, Custom Actions, Dynamic Expressions](https://blogs.sap.com/2022/12/23/cap-with-fiori-elements-side-effects-custom-actions-dynamic-expressions/)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/CAP%20with%20Fiori%20Elements%20-%20Side%20Effects%2C%20Custom%20Actions%2C%20Dynamic%20Expressions)|
+|[Developers.sap.com](https://developers.sap.com/)|[Build an Application End-to-End Using CAP, Node.js and VS Code](https://developers.sap.com/mission.btp-application-cap-e2e.html)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Build%20an%20Application%20End-to-End%20Using%20CAP%2C%20Node.js%20and%20VS%20Code)|
+|[Developers.sap.com](https://developers.sap.com/)|[Secure a Node.JS Application and Make It Available to Other Subaccounts](https://developers.sap.com/group.cp-cf-security-xsuaa.html)|[Development](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Secure%20a%20Node.JS%20Application%20and%20Make%20It%20Available%20to%20Other%20Subaccounts)|
 
 
 **Not Started Links**
