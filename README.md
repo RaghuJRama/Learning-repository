@@ -18,10 +18,6 @@
 |[Blogs.sap.com](https://blogs.sap.com)|[SAP Tech Bytes: Consume Data Using Destinations with an Approuter – Cloud Foundry Basics #3](https://blogs.sap.com/2022/08/03/sap-tech-bytes-consume-data-using-destinations-with-an-approuter-cloud-foundry-basics-3/)|[Developed](https://github.com/RaghuJRama/SAP-Fiori/tree/main/blogs.sap.com/SAP%20Tech%20Bytes%20-%20Deploy%20a%20Static%20Web%20Page%20-%20Cloud%20Foundry%20Basics#sap-tech-bytes---consume-data-using-destinations-with-an-approuter---cloud-foundry-basics-3)|
 
 
-- [https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/](https://blogs.sap.com/2022/06/10/sap-tech-bytes-deploy-a-static-web-page-cloud-foundry-basics-1/)
-- [https://blogs.sap.com/2022/06/17/sap-tech-bytes-serve-web-page-with-an-approuter-cloud-foundry-basics-2/](https://blogs.sap.com/2022/06/17/sap-tech-bytes-serve-web-page-with-an-approuter-cloud-foundry-basics-2/)
-- [https://blogs.sap.com/2022/08/03/sap-tech-bytes-consume-data-using-destinations-with-an-approuter-cloud-foundry-basics-3/](https://blogs.sap.com/2022/08/03/sap-tech-bytes-consume-data-using-destinations-with-an-approuter-cloud-foundry-basics-3/) 
-
 **In-progress Links**
 
 |Reference Site|Reference Link|Development Link|
