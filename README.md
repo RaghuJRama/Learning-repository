@@ -8,10 +8,10 @@
 
 **Completed Links**
 
-|Reference Link|Development Link|
-|--------------|----------------|
-|[Build a Business Application Using CAP for Node.js](https://developers.sap.com/mission.cp-starter-extensions-cap.html)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Build-a-Business-Application-Using-CAP-for-Node.js)|
-|[SAP CAPM Full Stack UI5 Application with CRUD Operations](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/SAP%20CAPM%20Full%20Stack%20UI5%20Application%20with%20CRUD%20Operations)|
+|Reference Site|Reference Link|Development Link|
+|--------------|--------------|----------------|
+|[Developers.sap.com](https://developers.sap.com)|[Build a Business Application Using CAP for Node.js](https://developers.sap.com/mission.cp-starter-extensions-cap.html)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/developers.sap.com/Build-a-Business-Application-Using-CAP-for-Node.js)|
+|[Blogs.sap.com](https://blogs.sap.com/)|[SAP CAPM Full Stack UI5 Application with CRUD Operations](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)|[Developed](https://github.com/RaghuJRama/SAP-CAPM/tree/main/blogs.sap.com/SAP%20CAPM%20Full%20Stack%20UI5%20Application%20with%20CRUD%20Operations)|
 
 
 - [https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/](https://blogs.sap.com/2022/03/25/sap-capm-full-stack-ui5-application-with-crud-operations/)
