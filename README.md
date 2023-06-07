@@ -118,3 +118,8 @@
 
 - [https://medium.com/@sangeethkumar.tvm.kpm/cleaning-up-a-git-repo-for-reducing-the-repository-size-d11fa496ba48](https://medium.com/@sangeethkumar.tvm.kpm/cleaning-up-a-git-repo-for-reducing-the-repository-size-d11fa496ba48)
 - [https://blog.devart.com/working-with-multiple-branches-in-source-control.html](https://blog.devart.com/working-with-multiple-branches-in-source-control.html)
+
+- [https://blogs.sap.com/2023/06/06/exploring-an-end-to-end-use-case-with-sap-cloud-application-programming-model-cap/](https://blogs.sap.com/2023/06/06/exploring-an-end-to-end-use-case-with-sap-cloud-application-programming-model-cap/)
+- [https://blogs.sap.com/2020/12/27/consuming-a-rest-service-with-the-sap-cloud-application-programming-model/](https://blogs.sap.com/2020/12/27/consuming-a-rest-service-with-the-sap-cloud-application-programming-model/)
+- [https://blogs.sap.com/2022/08/30/import-openapi-documented-apis-remotely-with-sap-cloud-application-programming-model/](https://blogs.sap.com/2022/08/30/import-openapi-documented-apis-remotely-with-sap-cloud-application-programming-model/)
+- [https://github.com/epalmen/cap-weather](https://github.com/epalmen/cap-weather)
