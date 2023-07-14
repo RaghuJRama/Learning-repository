@@ -123,3 +123,6 @@
 - [https://blogs.sap.com/2020/12/27/consuming-a-rest-service-with-the-sap-cloud-application-programming-model/](https://blogs.sap.com/2020/12/27/consuming-a-rest-service-with-the-sap-cloud-application-programming-model/)
 - [https://blogs.sap.com/2022/08/30/import-openapi-documented-apis-remotely-with-sap-cloud-application-programming-model/](https://blogs.sap.com/2022/08/30/import-openapi-documented-apis-remotely-with-sap-cloud-application-programming-model/)
 - [https://github.com/epalmen/cap-weather](https://github.com/epalmen/cap-weather)
+
+- [https://blogs.sap.com/2023/07/07/cap-techbytes-input-validation/](https://blogs.sap.com/2023/07/07/cap-techbytes-input-validation/)
+- [https://blogs.sap.com/2023/07/05/cap-meeting-sap-graph-embrace-the-power-of-sap-business-technology-platform/](https://blogs.sap.com/2023/07/05/cap-meeting-sap-graph-embrace-the-power-of-sap-business-technology-platform/)
